@@ -1,0 +1,1 @@
+Create place assets in corresponding folders
